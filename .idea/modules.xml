@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Creational/Builder_Part_01/Biulder.iml" filepath="$PROJECT_DIR$/Creational/Builder_Part_01/Biulder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creational/Builder_Part_02/Builder_Part_02.iml" filepath="$PROJECT_DIR$/Creational/Builder_Part_02/Builder_Part_02.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/DesignPattern.iml" filepath="$PROJECT_DIR$/.idea/DesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational/Simple_Factory_Methode/Simple_Factory_Methode.iml" filepath="$PROJECT_DIR$/Creational/Simple_Factory_Methode/Simple_Factory_Methode.iml" />
     </modules>
   </component>
 </project>
