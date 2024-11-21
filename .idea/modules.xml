@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/Creational/Builder_Part_01/Biulder.iml" filepath="$PROJECT_DIR$/Creational/Builder_Part_01/Biulder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creational/Builder_Part_02/Builder_Part_02.iml" filepath="$PROJECT_DIR$/Creational/Builder_Part_02/Builder_Part_02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Structural/Adapter/Class_Adapter/Class_Adapter.iml" filepath="$PROJECT_DIR$/Structural/Adapter/Class_Adapter/Class_Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Structural/Decorator/Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/DesignPattern.iml" filepath="$PROJECT_DIR$/.idea/DesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creational/Singleton/Eagar_Singleton/Eagar_Singleton.iml" filepath="$PROJECT_DIR$/Creational/Singleton/Eagar_Singleton/Eagar_Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creational/FacrtoryMethod/FacrtoryMethod.iml" filepath="$PROJECT_DIR$/Creational/FacrtoryMethod/FacrtoryMethod.iml" />
