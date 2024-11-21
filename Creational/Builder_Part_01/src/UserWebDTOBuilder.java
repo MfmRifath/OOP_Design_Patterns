@@ -34,7 +34,7 @@ private UserWebDTO dto;
         this.address = address.getHouseNumber() + ", " +address.getStreet()
                 +"\n " + address.getCity()
                 +"\n " + address.getState()+" "+address.getZipCode();
-        return null;
+        return this;
     }
 
     @Override
